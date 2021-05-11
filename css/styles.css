@@ -1,0 +1,69 @@
+body {
+    background-color: aqua;
+    margin: 0;
+}
+
+.bg-cover {
+    background-attachment: static;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0.6) 100%), url("/assets/images/chevy.jpg");
+    padding: 200px 0px;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.aboutUs {
+    padding: 40px;
+    font-size: 1.5rem;
+    text-align: ce0nter;
+    line-height: 2;
+}
+
+.title {
+    font-weight: bolder;
+}
+
+.theTeamImg {
+    width: 70%;
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+}
+
+.appBtn {
+    display: block;
+    margin: auto;
+}
+
+.gallery {
+    background-color: #212529;
+    color: white;
+}
+
+.carousel {
+    max-width: 90%;
+    display: block;
+    margin: auto;
+    padding: 20px;
+}
+
+.carousel-item img {
+    border-radius: 1%;
+}
+
+.title {
+    text-align: center;
+}
+
+.insta-icon {
+    width: 40px;
+    padding: 5px;
+}
+
+.form-group {
+    width: 50%;
+    padding: 10px;
+    margin: 0 auto;
+}
