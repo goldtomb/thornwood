@@ -43,10 +43,10 @@ body {
 }
 
 .carousel {
-    max-width: 90%;
+    max-width: 80%;
     display: block;
     margin: auto;
-    padding: 20px;
+    padding: 30px;
 }
 
 .carousel-item img {
