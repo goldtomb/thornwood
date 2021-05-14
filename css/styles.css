@@ -49,6 +49,11 @@ body {
     padding: 30px;
 }
 
+.map {
+    display: block;
+    margin: auto;
+}
+
 .title {
     text-align: center;
 }
